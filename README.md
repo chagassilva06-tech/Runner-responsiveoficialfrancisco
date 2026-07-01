@@ -1,5 +1,7 @@
 # Francisco Runner Oficial
 Copia estatica do site publico em https://francisco-app.base44.app/.
+https://runnerfrancisco.lovable.app/ 
+versão 2"
 
 ## O que esta nesta pasta
 - `index.html`: pagina principal.
